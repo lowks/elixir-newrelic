@@ -31,7 +31,7 @@ git clone this repository.
 mix deps.get
 mix deps.compile
 mix compile
-mic compile.cure
+mix compile.cure
 ```
 
 This will also run the Makefile and create the newrelic application file
